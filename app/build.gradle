@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.adiflaz.perikanan' // Sesuaikan dengan package di file Java kamu
+    namespace 'com.adiflaz.perikanan'
     compileSdk 33
 
     defaultConfig {
@@ -12,5 +12,11 @@ android {
         targetSdk 33
         versionCode 1
         versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
     }
 }
