@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Budidaya Ikan</string>
+    
+    <!-- Main Menu -->
+    <string name="menu_kalkulator">Kalkulator Pakan &amp; Protein</string>
+    <string name="menu_estimasi">Estimasi Panen &amp; Waktu</string>
+    <string name="menu_biaya">Analisis Biaya Produksi</string>
+    <string name="menu_keuntungan">Analisis Keuntungan &amp; ROI</string>
+    <string name="menu_database">Database Ikan &amp; Kolam</string>
+    <string name="menu_monitoring">Monitoring Harian</string>
+    
+    <!-- Common -->
+    <string name="hitung">HITUNG</string>
+    <string name="reset">RESET</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="lihat">LIHAT</string>
+    
+    <!-- Errors -->
+    <string name="error_input">Harap isi semua data dengan benar!</string>
+    <string name="error_calculation">Terjadi kesalahan dalam perhitungan</string>
+    
+    <!-- Credits -->
+    <string name="credit">Dikembangkan oleh Adif Lazuardi Imani\nAplikasi Budidaya Ikan Air Tawar</string>
+</resources>
